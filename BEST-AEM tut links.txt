@@ -1,0 +1,31 @@
+Implement Social Plugin in CQ -->
+http://www.aemcq5tutorials.com/tutorials/implement-social-plugin-in-cq/
+
+Crack Adobe AEM Certification Exam 6.0 -->
+http://www.aemcq5tutorials.com/interview-questions/crack-adobe-aem-certification-exam-dumps-questions-requirement/
+
+Tricky CQ5 Interview Questions for Beginners -->
+http://www.aemcq5tutorials.com/interview-questions/tricky-cq5-interview-questions-for-beginners/
+
+AEM CQ5 Tutorial for Beginners -->
+http://www.aemcq5tutorials.com/tutorials/aem-cq5-tutorial/
+
+Sling Resource Merger in AEM -->
+http://www.aemcq5tutorials.com/tutorials/sling-resource-merger-in-aem/
+
+Explore Client Libraries in AEM -->
+http://www.aemcq5tutorials.com/tutorials/create-client-libraries-in-aem/
+
+Adobe AEM and CQ5 Best Practices – Project Structure -->
+http://www.aemcq5tutorials.com/tutorials/adobe-aem-and-cq5-best-practices/
+
+Adobe AEM CQ5 Interview Questions and Answers for Beginners -->
+http://www.aemcq5tutorials.com/interview-questions/adobe-aem-cq5-interview-questions-beginners/
+
+Implement Internationalization in Adobe CQ-->
+http://www.aemcq5tutorials.com/tutorials/implement-internationalization-in-adobe-cq/
+
+
+diff b/w --
+currentDesign – The design of the addressed resource.
+currentStyle – The style of the addressed resource.

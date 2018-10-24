@@ -1,0 +1,58 @@
+http://www.wemblog.com/2013/03/how-to-create-custom-authentication.html
+
+http://www.wemblog.com/2012/06/how-to-add-custom-login-module-in-cq55.html?
+
+http://brian-vaughn.blogspot.com/2015/02/user-authentication-in-aem.html
+
+http://suryakand-shinde.blogspot.com/2011/04/sling-authentication.html
+
+-----------------
+
+Sling Authentication - Framework:
+http://sling.apache.org/documentation/the-sling-engine/authentication/authentication-framework.html
+
+http://sling.apache.org/documentation/the-sling-engine/authentication/authentication-authenticationhandler.html
+
+-----------------
+
+
+
+AEM 6.0 and SAML 2.0 Authentication:
+http://herodigital.com/aem6-and-saml2/
+
+SAML 2.0 Authentication Handler:
+https://docs.adobe.com/docs/en/aem/6-1/administer/security/saml-2-0-authenticationhandler.html
+
+User Administration and Security:
+https://docs.adobe.com/docs/en/aem/6-1/administer/security/security.html
+
+LDAP Authentication:
+https://docs.adobe.com/docs/en/cq/5-6-1/core/administering/ldap_authentication.html
+
+
+-----------------
+Tagging in Adobe Experience Manager 6.0 [Video Walkthrough] :
+http://aempodcast.com/2014/aem-tag-manager/tagging-aem-6-0-video-walkthrough/
+
+“RSS feed” component:
+http://suryakand-shinde.blogspot.com/2011/04/cq-component-designdevelopment-best.html
+
+
+CQ DEVELOPMENT - OSGI BUNDLES AND COMPONENTS:
+http://suryakand-shinde.blogspot.com/2011/09/cq-development-osgi-bundles-and.html
+
+
+CQ - COMPONENT DESIGN/DEVELOPMENT BEST PRACTICES:
+http://suryakand-shinde.blogspot.com/2011/04/cq-component-designdevelopment-best.html
+
+UNDERSTANDING DAY'S CQ & UNDERLYING FRAMEWORKS - PART 1:
+http://suryakand-shinde.blogspot.com/2011/04/understanding-days-cq-best-practices.html
+
+MSM - CUSTOM SYNCHRONISATION OR ROLLOUT ACTION FOR BLUEPRINT ? :
+http://suryakand-shinde.blogspot.com/search/label/msm
+
+CLIENTLIB: CQ STATIC RESOURCE MANAGEMENT:
+http://suryakand-shinde.blogspot.com/2012/01/clientlib-cq-static-resource-management.html
+
+
+
