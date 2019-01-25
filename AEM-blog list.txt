@@ -1,0 +1,22 @@
+https://helpx.adobe.com/marketing-cloud/experience-manager.html
+
+Adobe Experience Manager 6.1 document :
+http://docs.adobe.com/content/docs/en/aem/6-1.html
+
+aem-links :
+https://github.com/paulrohrbeck/aem-links
+
+blogger :
+https://plus.google.com/112726309661956524273/posts
+
+
+AEM/Adobe CQ5 Training Videos:
+http://wcmaem.blogspot.com/2014/02/aemadobe-cq5-training-videos.html
+https://outv.omniture.com/
+
+http://wcmaem.blogspot.com/?view=timeslide
+
+
+
+http://www.aemmastery.com/
+

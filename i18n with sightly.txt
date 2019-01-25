@@ -1,0 +1,2 @@
+good aticle using template we can do i18n : 
+http://stackoverflow.com/questions/28022356/aem-6-sightly-how-to-read-variable-from-language-file
